@@ -1,1 +1,1 @@
-This is the repository for [my site](www.smsiddiqui.com) highlighting my professional background. - Sarmad
+This is the repository for [my site](https://www.smsiddiqui.com) highlighting my professional background. - Sarmad
