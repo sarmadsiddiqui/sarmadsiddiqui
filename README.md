@@ -1,3 +1,3 @@
 # sarmadsiddiqui.github.io
 
-Sarmad Siddiqui
+This is the repository for my site highlighting my professional background. - Sarmad
